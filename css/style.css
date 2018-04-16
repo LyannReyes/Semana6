@@ -1,0 +1,102 @@
+h1{
+font-family: "Trebuchet MS"; 
+font-size: 4em;
+color: darkblue; 
+background-color: cyan;
+position: relative;
+}
+
+nav{
+top: 0.6em;
+word-spacing: 0.6em;
+float: right;
+position: absolute;
+left: 68.7em;
+}
+
+.bullet{
+	font-family: "Gill Sans MT";
+	color: darkblue;
+	text-decoration: none;
+	font-size: 1.25em;
+}
+
+#list{
+	position: relative;
+	font-family: "Gill Sans MT";
+	font-size: 1.25em;
+	float: left;	
+	left: 0.3em;
+	top: 3em;
+}
+
+#list a{
+	text-decoration: none;
+	color: darkblue;
+}
+
+#list li {
+	margin-bottom: 3em;
+}
+
+section{
+	color: slateblue;
+	float: right;
+	width: 100%;
+	max-width: 1070px;
+	height: auto;
+	left: 15em;
+	top: 3em;
+	position: absolute;
+}
+
+.column{
+	float: left;
+	padding: 0.3em;
+}
+
+.column.side:{
+	width: 30%;
+}
+
+.column.middle:{
+	width: 70%;
+}
+
+
+#article1{
+	color: darkblue;
+	font-family: "Trebuchet MS";
+	font-size: 30px;
+	text-transform: bold;
+
+}
+
+.parra1{
+	color: slateblue;
+	font-family: "Trebuchet MS";
+	font-size: 1.25em;
+}
+
+#article2{
+	color: darkblue;
+	font-family: "Trebuchet MS";
+	font-size: 1.8em;
+	text-transform: bold;
+
+}
+
+.parra2{
+	color: slateblue;
+	font-family: "Trebuchet MS";
+	font-size: 1.25em;
+	
+}
+
+footer{
+	position: relative;
+	top: 37em;
+	color:darkblue; 
+	text-align: left;
+	background-color:cyan;
+}
